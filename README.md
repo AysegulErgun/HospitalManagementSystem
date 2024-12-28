@@ -9,5 +9,9 @@ Hastalar üzerinde belirli analizler ve raporlamalar yapılır.
 Desenlerin Rolü:
 
 Sorumluluk Zinciri: Hastanın işlemleri, bir zincir boyunca sıralı şekilde farklı departmanlar tarafından ele alınır. (Örn: Kayıt -> Muayene -> Testler -> Tedavi).
+
+
 Flyweight: Paylaşılan bilgiler, bellek kullanımını optimize etmek için saklanır. Örneğin, doktorların uzmanlık alanları ve hastane bölümleri.
+
+
 Ziyaretçi: Raporlama ve analiz işlemleri her hasta için özelleştirilmiş davranışlarla gerçekleştirilir.
