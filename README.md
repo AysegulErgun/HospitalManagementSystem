@@ -1,4 +1,4 @@
-Senaryo: Hastane Yönetim Sistemi
+Senaryo: Hastane Yönetim Sistemi \n
 Durum:
 Hastalar, çeşitli bölümlerde (Kayıt, Doktor Görüşmesi, Test İşlemleri) işlem yapar.
 Hasta bilgileri ve bazı genel bilgiler (örneğin, doktor bilgisi, bölüm bilgisi) tüm süreçlerde ortak kullanılır.
